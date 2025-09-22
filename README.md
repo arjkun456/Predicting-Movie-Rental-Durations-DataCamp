@@ -99,8 +99,9 @@ best_mse = best_rmse ** 2  # This is the key deliverable
 
 > 💡 Final Output:
 > ```python
-> best_model_name  # e.g., "R_forest"
-> best_mse         # e.g., 2.87 — actual value, not forced to meet any threshold
+> best_model_name  # "R_forest"
+> best_mse         # 1.9775150039532432
+
 > ```
 
 ---
