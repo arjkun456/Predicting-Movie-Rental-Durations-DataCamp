@@ -102,7 +102,6 @@ best_mse = best_rmse ** 2  # This is the key deliverable
 > best_model_name  # "R_forest"
 > best_mse         # 1.9775150039532432
 
-> ```
 
 ---
 
